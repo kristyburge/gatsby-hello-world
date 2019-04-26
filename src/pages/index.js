@@ -13,8 +13,6 @@ const IndexPage = () => {
 			<Head title="Home" />
 			<h1>Hello.</h1>
 			<p>I'm Kristy. A front-end developer, living in Oklahoma City.</p>
-
-			<p>Need a developer? <Link to="/contact">Contact Me.</Link></p>
 		</Layout>
 	)
 }; 
